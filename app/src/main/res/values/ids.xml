@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView_logo4" type="id" />
+    <item name="textViewLDPackageName" type="id" />
+    <item name="listView" type="id" />
+    <item name="buttonBack" type="id" />
+    <item name="buttonTimePicker" type="id" />
+    <item name="buttonDatePicker" type="id" />
+    <item name="textViewDeliveryTime" type="id" />
+    <item name="textViewDeliveryDate" type="id" />
+    <item name="buttonCheckout" type="id" />
+    <item name="textView_logo6" type="id" />
+    <item name="textViewTotal" type="id" />
+    <item name="line_a" type="id" />
+    <item name="line_b" type="id" />
+    <item name="line_c" type="id" />
+    <item name="line_e" type="id" />
+    <item name="line_d" type="id" />
+    <item name="listViewBM" type="id" />
+    <item name="buttonBMBack" type="id" />
+<!--    <item name="buttonBMGoToCart" type="id" />-->
+    <item name="buttonBMGoToCart" type="id" />
+</resources>
